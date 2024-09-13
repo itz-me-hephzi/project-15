@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <Link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <title>Document</title>
+</head>
+<body>
+ <div class="jumbotron">
+    <div class="container">
+        <h1>I love coding</h1>
+    </div>
+ </div>  
+ <div class="container">
+    <button type="button" class="btn btn-primary">Click</button>
+    <button type="button" class="btn btn-secondary">Click</button>
+    <button type="button" class="btn btn-success">Click</button>
+ </div>
+ <div class="container">
+    <h1 style="color:violet">badge</h1>
+    <span claSS="badge badge-primary">primary</span>
+    <span claSS="badge badge-dark">primary</span>
+    <span claSS="badge badge-warning">primary</span>
+</div>
+<div class="container">
+    <h1>Basic Progress Bar</h1>
+    <div class="progress">
+     <div class="progress-bar" style="width:87%">87%
+     </div>
+    </div>
+ </div>
+</body>
+</html>
